@@ -1,6 +1,11 @@
 # DockerK8sAksDevOps2024
-Upgraded course content for use in 2024
+(Starting at section 6)
 
+https://github.com/aspnetrun/run-devops
+UDEMY COURSE (no longer maintained)
+Step by Step Development of this repository -> https://www.udemy.com/course/deploying-net-microservices-with-k8s-aks-and-azure-devops/?couponCode=APRI24
+
+Upgraded course content for use in 2024 
 Added support for mongo / docker
 - download docker desktop
 - pull mongo image from dockerhub
